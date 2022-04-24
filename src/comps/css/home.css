@@ -1,0 +1,9 @@
+.strip_home{
+    /* color need to be first  */
+    background: silver;
+    background-size:cover ;
+  background-position: center center;
+    min-height: 550px;
+   
+  
+}
